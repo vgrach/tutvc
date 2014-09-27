@@ -1,0 +1,37 @@
+    1  whoami
+    2  echo spath
+    3  whereami
+    4  dwd
+    5  pdw
+    6  pwd
+    7  ls
+    8  ls /c/Users/oleg/
+    9  ls -F
+   10  mkdir tut
+   11  ls
+   12  ls- F
+   13  ls-F
+   14  ls -F
+   15  ls - tF
+   16  ls -tF
+   17  pwd
+   18  cd tut
+   19  pwd 
+   20  cd tut
+   21  cd tut
+   22  cd tut/
+   23  $notepad fish.txt
+   24  notepad fish.txt
+   25  nn
+   26  nnwdenf
+   27  'asf
+sdagasnote;wdqfggffjkhg
+
+notepad fish.txt
+head fish.txt
++C
+notepad fish.txt
+   28  notepad fish.txt
+   29  head fish.txt
+   30  history.txt
+   31  history>history.txt
